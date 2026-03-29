@@ -1,4 +1,4 @@
-**Copyright (c) 2026 PomfQ**
+**Copyright (c) 2026 GitJunk**
 
 All Rights Reserved.
 
