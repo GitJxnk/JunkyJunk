@@ -137,3 +137,8 @@ Check the repository main [License](https://github.com/GitJxnk/KGM-Junk?tab=Lice
 
 - Massive thanks to [Zode](https://github.com/Zode) for providing informations and suggesting the method **Blind Guesser.** <br>
 - [Devork](https://github.com/Devorkk/) For proof of concept and inspiration.
+
+
+## 🚨 Disclaimer
+
+Do not use this tool to harass, attack or targeting anyone, this is a ToS violation and it could lead to consequences. I DO NOT ENCOURAGE THE USAGE OF THIS TOOL FOR MALICIOUS INTENTS.
