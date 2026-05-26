@@ -1,4 +1,8 @@
-Vasekk @ 16/05/2026
+The game is fully dead now, can't wait to be set free from this hell hole <br>
+
+This will remain as a public archive, there is no use for the code base now and in the meantime, I might publish all remaining/unfinished work. <br>
+
+Endpoint check, 18/03/2018 → 26/05/2026
 
 ## About
 Repository full of Junky stuff I have done for KoGaMa.
