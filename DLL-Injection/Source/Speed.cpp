@@ -3,6 +3,8 @@
 #include <MinHook.h>
 #include <cstdio>
 #include <thread>
+#include <string>
+#include <iostream>
 
 struct Vector3 { float x, y, z; };
 struct MethodInfo {};
