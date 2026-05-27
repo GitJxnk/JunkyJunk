@@ -8,7 +8,7 @@
 const uintptr_t OFFSET_get_Game = 0x4EA5C0;
 const uintptr_t OFFSET_get_OperationRequests = 0x4EAE30; // AdminOperations
 const uintptr_t OFFSET_get_LocalPlayer = 0x9897B0;
-const uintptr_t OFFSET_get_Count = 0x989830;
+const uintptr_t OFFSET_get_Count = 0x989830; //MVPlayer
 
 typedef void* (__fastcall* tGetGame)(void*);
 typedef void* (__fastcall* tGetOpRequests)(void*);
